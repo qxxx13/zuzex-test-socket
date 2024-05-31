@@ -1,0 +1,11 @@
+{
+    "name": "zuzex-test-socket",
+    "version": "0.0.1",
+    "description": "zuzex-test socket.io",
+    "dependencies": {
+        "commonjs-variables-for-esmodules": "^1.1.0",
+        "express": "^4.19.2",
+        "socket.io": "^4.7.5"
+    },
+    "type": "module"
+}
